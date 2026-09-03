@@ -1,0 +1,59 @@
+about:
+  description: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+  license: MIT
+  homepage: https://ponytail.dev
+  head: 2ed6c52
+  archived: false
+  latestVersion: v4.9.0
+  collectedAt: 2026-09-03T05:04:52Z
+timeline:
+  created: 2026-06-12
+  lastCommit: 2026-08-07
+  lastRelease: 2026-08-07
+popularity:
+  star: 122028
+  watcher: 300
+  fork: 6596
+  release: 15
+  contributor: 71
+  pullRequest: 321
+  issue: 290
+language:
+  JavaScript: 181496
+  Python: 109292
+  PowerShell: 885
+  Shell: 696
+totalLine: 292369
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 1
+    mergedPR: 1
+    openPR: 58
+    closedIssue: 2
+    openIssue: 25
+    commit: 4
+  last90d:
+    since: 2026-06-05
+    release: 15
+    mergedPR: 174
+    openPR: 125
+    closedIssue: 213
+    openIssue: 77
+    commit: 202
+  last180d:
+    since: 2026-03-07
+    release: 15
+    mergedPR: 174
+    openPR: 125
+    closedIssue: 213
+    openIssue: 77
+    commit: 202
+  last360d:
+    since: 2025-09-08
+    release: 15
+    mergedPR: 174
+    openPR: 125
+    closedIssue: 213
+    openIssue: 77
+    commit: 202
