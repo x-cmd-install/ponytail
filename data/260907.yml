@@ -2,21 +2,21 @@ about:
   description: "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
   license: MIT
   homepage: https://ponytail.dev
-  head: 974d940
+  head: 356918e
   archived: false
   latestVersion: "v4.9.0"
-  collectedAt: 2026-09-07T06:04:55Z
+  collectedAt: 2026-09-07T18:29:57Z
 timeline:
   created: 2026-06-12
-  lastCommit: 2026-09-04
+  lastCommit: 2026-09-07
   lastRelease: 2026-08-07
 popularity:
-  star: 129809
+  star: 130732
   watcher: 319
-  fork: 6955
+  fork: 7002
   release: 15
   contributor: 71
-  pullRequest: 513
+  pullRequest: 516
   issue: 301
 language:
   JavaScript: 181496
@@ -28,61 +28,61 @@ recent:
   last30d:
     since: 2026-08-08
     release: 0
-    mergedPR: 3
-    openPR: 67
+    mergedPR: 4
+    openPR: 69
     closedIssue: 2
     openIssue: 36
-    commit: 3
+    commit: 12
   last60d:
     since: 2026-07-09
     release: 1
-    mergedPR: 9
-    openPR: 112
+    mergedPR: 10
+    openPR: 114
     closedIssue: 10
     openIssue: 69
-    commit: 8
+    commit: 17
   last90d:
     since: 2026-06-09
     release: 15
-    mergedPR: 177
-    openPR: 138
+    mergedPR: 178
+    openPR: 140
     closedIssue: 213
     openIssue: 88
-    commit: 164
+    commit: 173
   last180d:
     since: 2026-03-11
     release: 15
-    mergedPR: 177
-    openPR: 138
+    mergedPR: 178
+    openPR: 140
     closedIssue: 213
     openIssue: 88
-    commit: 205
+    commit: 214
   last360d:
     since: 2025-09-12
     release: 15
-    mergedPR: 177
-    openPR: 138
+    mergedPR: 178
+    openPR: 140
     closedIssue: 213
     openIssue: 88
-    commit: 205
+    commit: 214
   last720d:
     since: 2024-09-17
     release: 15
-    mergedPR: 177
-    openPR: 138
+    mergedPR: 178
+    openPR: 140
     closedIssue: 213
     openIssue: 88
-    commit: 213
+    commit: 222
 total:
   release: 15
-  mergedPR: 177
-  openPR: 138
+  mergedPR: 178
+  openPR: 140
   closedIssue: 213
   openIssue: 88
-  commit: 213
+  commit: 222
 ---
 path: /home/runner/.x-repo/github.com/DietrichGebert/ponytail
-collectedAt: 2026-09-07T06:04:57Z
+collectedAt: 2026-09-07T18:29:58Z
 loc:
   JavaScript:
     code: 3246
@@ -95,10 +95,10 @@ loc:
     blanks: 166
     files: 6
   Svg:
-    code: 241
+    code: 249
     comments: 4
     blanks: 7
-    files: 5
+    files: 7
   Json:
     code: 183
     comments: 0
@@ -126,19 +126,19 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 2565
-    blanks: 1002
+    comments: 2573
+    blanks: 1005
     files: 38
 total:
-  code: 6555
-  comments: 3270
-  blanks: 1810
-  files: 117
+  code: 6563
+  comments: 3278
+  blanks: 1813
+  files: 119
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:04:58+00:00
+  collectedAt: 2026-09-07T18:29:59+00:00
   platform:
     darwin/arm64:
       name:  null
