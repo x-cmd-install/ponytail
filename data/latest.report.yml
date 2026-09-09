@@ -7,7 +7,7 @@ about:
   latestVersion: "v4.9.0"
   latestRelease: "v4.9.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T06:19:56Z
+  collectedAt: 2026-09-09T20:30:33Z
 timeline:
   created: 2026-06-12
   lastCommit: 2026-09-07
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-08-07
   lastPrerelease: 
 popularity:
-  star: 132511
+  star: 133287
   watcher: 326
-  fork: 7090
+  fork: 7131
   release: 15
   contributor: 71
-  pullRequest: 530
+  pullRequest: 532
   issue: 301
 language:
   JavaScript: 181496
@@ -33,7 +33,7 @@ recent:
     since: 2026-08-10
     release: 0
     mergedPR: 4
-    openPR: 83
+    openPR: 85
     closedIssue: 2
     openIssue: 36
     commit: 12
@@ -41,7 +41,7 @@ recent:
     since: 2026-07-11
     release: 1
     mergedPR: 8
-    openPR: 124
+    openPR: 126
     closedIssue: 10
     openIssue: 67
     commit: 17
@@ -49,7 +49,7 @@ recent:
     since: 2026-06-11
     release: 15
     mergedPR: 178
-    openPR: 154
+    openPR: 156
     closedIssue: 213
     openIssue: 88
     commit: 173
@@ -57,7 +57,7 @@ recent:
     since: 2026-03-13
     release: 15
     mergedPR: 178
-    openPR: 154
+    openPR: 156
     closedIssue: 213
     openIssue: 88
     commit: 214
@@ -65,7 +65,7 @@ recent:
     since: 2025-09-14
     release: 15
     mergedPR: 178
-    openPR: 154
+    openPR: 156
     closedIssue: 213
     openIssue: 88
     commit: 214
@@ -73,20 +73,20 @@ recent:
     since: 2024-09-19
     release: 15
     mergedPR: 178
-    openPR: 154
+    openPR: 156
     closedIssue: 213
     openIssue: 88
     commit: 222
 total:
   release: 15
   mergedPR: 178
-  openPR: 154
+  openPR: 156
   closedIssue: 213
   openIssue: 88
   commit: 222
 ---
 path: /home/runner/.x-repo/github.com/DietrichGebert/ponytail
-collectedAt: 2026-09-09T06:19:56Z
+collectedAt: 2026-09-09T20:30:34Z
 loc:
   JavaScript:
     code: 3246
