@@ -1,0 +1,13 @@
+- repo: t2
+  srcname: ponytail
+  visiblename: ponytail
+  version: 4.9.0
+  origversion: null
+  status: unique
+  summary: Laziest senior dev in the room
+  maintainers:
+    - t2@t2-project.org
+  licenses:
+    - MIT
+  categories:
+    - extra/tool
