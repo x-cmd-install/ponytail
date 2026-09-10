@@ -37,7 +37,7 @@ Total: **5,729** lines of code across **73** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 134,622 · **Forks**: 7,207 · **Open issues**: 302 · **Contributors**: 71
+- **Stars**: 134,651 · **Forks**: 7,210 · **Open issues**: 302 · **Contributors**: 71
 
 ## Totals (cumulative)
 
@@ -63,4 +63,4 @@ Install metadata for ponytail lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:09:11Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T22:36:49Z._
