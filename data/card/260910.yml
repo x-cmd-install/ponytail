@@ -7,7 +7,7 @@ about:
   latestVersion: "v4.9.0"
   latestRelease: "v4.9.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T21:09:02Z
+  collectedAt: 2026-09-10T22:36:44Z
 timeline:
   created: 2026-06-12
   lastCommit: 2026-09-07
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-08-07
   lastPrerelease: 
 popularity:
-  star: 134622
+  star: 134651
   watcher: 328
-  fork: 7207
+  fork: 7210
   release: 15
   contributor: 71
   pullRequest: 536
@@ -86,7 +86,7 @@ total:
   commit: 222
 ---
 path: /home/runner/.x-repo/github.com/DietrichGebert/ponytail
-collectedAt: 2026-09-10T21:09:03Z
+collectedAt: 2026-09-10T22:36:44Z
 loc:
   JavaScript:
     code: 3246
