@@ -7,7 +7,7 @@ about:
   latestVersion: "v4.9.0"
   latestRelease: "v4.9.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T22:36:44Z
+  collectedAt: 2026-09-11T06:09:26Z
 timeline:
   created: 2026-06-12
   lastCommit: 2026-09-07
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-08-07
   lastPrerelease: 
 popularity:
-  star: 134651
+  star: 135033
   watcher: 328
-  fork: 7210
+  fork: 7238
   release: 15
   contributor: 71
-  pullRequest: 536
+  pullRequest: 537
   issue: 302
 language:
   JavaScript: 181496
@@ -30,63 +30,63 @@ language:
 totalBytes: 292369
 recent:
   last30d:
-    since: 2026-08-11
+    since: 2026-08-12
     release: 0
     mergedPR: 4
-    openPR: 89
+    openPR: 87
     closedIssue: 2
-    openIssue: 37
+    openIssue: 34
     commit: 12
   last60d:
-    since: 2026-07-12
+    since: 2026-07-13
     release: 1
     mergedPR: 8
     openPR: 129
-    closedIssue: 10
+    closedIssue: 8
     openIssue: 68
     commit: 17
   last90d:
-    since: 2026-06-12
-    release: 15
-    mergedPR: 169
-    openPR: 160
-    closedIssue: 210
+    since: 2026-06-13
+    release: 12
+    mergedPR: 168
+    openPR: 161
+    closedIssue: 209
     openIssue: 89
     commit: 173
   last180d:
-    since: 2026-03-14
+    since: 2026-03-15
     release: 15
     mergedPR: 178
-    openPR: 160
+    openPR: 161
     closedIssue: 213
     openIssue: 89
     commit: 214
   last360d:
-    since: 2025-09-15
+    since: 2025-09-16
     release: 15
     mergedPR: 178
-    openPR: 160
+    openPR: 161
     closedIssue: 213
     openIssue: 89
     commit: 214
   last720d:
-    since: 2024-09-20
+    since: 2024-09-21
     release: 15
     mergedPR: 178
-    openPR: 160
+    openPR: 161
     closedIssue: 213
     openIssue: 89
     commit: 222
 total:
   release: 15
   mergedPR: 178
-  openPR: 160
+  openPR: 161
   closedIssue: 213
   openIssue: 89
   commit: 222
 ---
 path: /home/runner/.x-repo/github.com/DietrichGebert/ponytail
-collectedAt: 2026-09-10T22:36:44Z
+collectedAt: 2026-09-11T06:09:27Z
 loc:
   JavaScript:
     code: 3246
