@@ -4,7 +4,7 @@
 
 Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-![ponytail](https://repo.x-cmd.io/ponytail.svg?lang=zh)
+[![x-cmd/install — ponytail Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ponytail.svg?lang=zh)](https://x-cmd.com/install/ponytail)
 
 ## 安装
 
@@ -37,22 +37,22 @@ x install ponytail
 
 ## 流行度
 
-- **Star**: 141,527 · **Fork**: 7,585 · **开放 issue**: 310 · **贡献者**: 71
+- **Star**: 142,661 · **Fork**: 7,654 · **开放 issue**: 313 · **贡献者**: 71
 
 ## 累计统计
 
-- **发布数**: 16 · **已合并 PR**: 180 · **开放 PR**: 178 · **已关闭 issue**: 215 · **开放 issue**: 95 · **提交数**: 224
+- **发布数**: 16 · **已合并 PR**: 180 · **开放 PR**: 187 · **已关闭 issue**: 215 · **开放 issue**: 98 · **提交数**: 224
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 6 | 89 | 4 | 34 | 14 |
-| last60d | 2026-07-20 | 2 | 8 | 132 | 8 | 67 | 18 |
-| 90d | 2026-06-20 | 7 | 91 | 176 | 129 | 93 | 107 |
-| last180d | 2026-03-22 | 16 | 180 | 178 | 215 | 95 | 216 |
-| 360d | 2025-09-23 | 16 | 180 | 178 | 215 | 95 | 216 |
-| last720d | 2024-09-28 | 16 | 180 | 178 | 215 | 95 | 224 |
+| 30d | 2026-08-21 | 1 | 6 | 93 | 4 | 35 | 14 |
+| last60d | 2026-07-22 | 2 | 8 | 139 | 8 | 67 | 18 |
+| 90d | 2026-06-22 | 7 | 83 | 184 | 119 | 92 | 107 |
+| last180d | 2026-03-24 | 16 | 180 | 187 | 215 | 98 | 216 |
+| 360d | 2025-09-25 | 16 | 180 | 187 | 215 | 98 | 216 |
+| last720d | 2024-09-30 | 16 | 180 | 187 | 215 | 98 | 224 |
 
 ## 改进这些数据
 
@@ -63,4 +63,4 @@ ponytail 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:19:45Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:22:19Z._

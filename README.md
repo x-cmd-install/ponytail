@@ -4,7 +4,7 @@
 
 Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-![ponytail](https://repo.x-cmd.io/ponytail.svg)
+[![x-cmd/install — ponytail Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ponytail.svg)](https://x-cmd.com/install/ponytail)
 
 ## Install
 
@@ -37,22 +37,22 @@ Total: **6,214** lines of code across **76** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 141,527 · **Forks**: 7,585 · **Open issues**: 310 · **Contributors**: 71
+- **Stars**: 142,661 · **Forks**: 7,654 · **Open issues**: 313 · **Contributors**: 71
 
 ## Totals (cumulative)
 
-- **Releases**: 16 · **Merged PRs**: 180 · **Open PRs**: 178 · **Closed issues**: 215 · **Open issues**: 95 · **Commits**: 224
+- **Releases**: 16 · **Merged PRs**: 180 · **Open PRs**: 187 · **Closed issues**: 215 · **Open issues**: 98 · **Commits**: 224
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 6 | 89 | 4 | 34 | 14 |
-| last60d | 2026-07-20 | 2 | 8 | 132 | 8 | 67 | 18 |
-| 90d | 2026-06-20 | 7 | 91 | 176 | 129 | 93 | 107 |
-| last180d | 2026-03-22 | 16 | 180 | 178 | 215 | 95 | 216 |
-| 360d | 2025-09-23 | 16 | 180 | 178 | 215 | 95 | 216 |
-| last720d | 2024-09-28 | 16 | 180 | 178 | 215 | 95 | 224 |
+| 30d | 2026-08-21 | 1 | 6 | 93 | 4 | 35 | 14 |
+| last60d | 2026-07-22 | 2 | 8 | 139 | 8 | 67 | 18 |
+| 90d | 2026-06-22 | 7 | 83 | 184 | 119 | 92 | 107 |
+| last180d | 2026-03-24 | 16 | 180 | 187 | 215 | 98 | 216 |
+| 360d | 2025-09-25 | 16 | 180 | 187 | 215 | 98 | 216 |
+| last720d | 2024-09-30 | 16 | 180 | 187 | 215 | 98 | 224 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for ponytail lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:19:44Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:22:19Z._
