@@ -4,7 +4,7 @@
 
 Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
-[![x-cmd/install — ponytail Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ponytail.svg)](https://x-cmd.com/install/ponytail)
+[![x-cmd/install — ponytail Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/ponytail.svg)](https://x-cmd.com/install/ponytail)
 
 ## Install
 
@@ -37,22 +37,22 @@ Total: **6,214** lines of code across **76** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 143,896 · **Forks**: 7,705 · **Open issues**: 318 · **Contributors**: 72
+- **Stars**: 144,577 · **Forks**: 7,741 · **Open issues**: 319 · **Contributors**: 72
 
 ## Totals (cumulative)
 
-- **Releases**: 16 · **Merged PRs**: 181 · **Open PRs**: 192 · **Closed issues**: 216 · **Open issues**: 102 · **Commits**: 224
+- **Releases**: 16 · **Merged PRs**: 181 · **Open PRs**: 195 · **Closed issues**: 216 · **Open issues**: 103 · **Commits**: 224
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 6 | 96 | 4 | 38 | 14 |
-| last60d | 2026-07-24 | 2 | 8 | 142 | 8 | 71 | 18 |
-| 90d | 2026-06-24 | 5 | 62 | 187 | 111 | 92 | 75 |
-| last180d | 2026-03-26 | 16 | 181 | 192 | 216 | 102 | 216 |
-| 360d | 2025-09-27 | 16 | 181 | 192 | 216 | 102 | 216 |
-| last720d | 2024-10-02 | 16 | 181 | 192 | 216 | 102 | 224 |
+| 30d | 2026-08-24 | 1 | 6 | 99 | 4 | 39 | 14 |
+| last60d | 2026-07-25 | 2 | 8 | 144 | 8 | 71 | 18 |
+| 90d | 2026-06-25 | 3 | 54 | 188 | 109 | 92 | 75 |
+| last180d | 2026-03-27 | 16 | 181 | 195 | 216 | 103 | 216 |
+| 360d | 2025-09-28 | 16 | 181 | 195 | 216 | 103 | 216 |
+| last720d | 2024-10-03 | 16 | 181 | 195 | 216 | 103 | 224 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for ponytail lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:33:29Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:46:13Z._
