@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/DietrichGebert/ponytail/releases/402285581",
-  "assets_url": "https://api.github.com/repos/DietrichGebert/ponytail/releases/402285581/assets",
-  "upload_url": "https://uploads.github.com/repos/DietrichGebert/ponytail/releases/402285581/assets{?name,label}",
-  "html_url": "https://github.com/DietrichGebert/ponytail/releases/tag/v4.10.3",
-  "id": 402285581,
+  "url": "https://api.github.com/repos/DietrichGebert/ponytail/releases/403347783",
+  "assets_url": "https://api.github.com/repos/DietrichGebert/ponytail/releases/403347783/assets",
+  "upload_url": "https://uploads.github.com/repos/DietrichGebert/ponytail/releases/403347783/assets{?name,label}",
+  "html_url": "https://github.com/DietrichGebert/ponytail/releases/tag/v4.12.0",
+  "id": 403347783,
   "author": {
     "login": "DietrichGebert",
     "id": 137048761,
@@ -25,33 +25,33 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOS4HNr84X-mQN",
-  "tag_name": "v4.10.3",
+  "node_id": "RE_kwDOS4HNr84YCplH",
+  "tag_name": "v4.12.0",
   "target_commitish": "main",
-  "name": "v4.10.3",
+  "name": "v4.12.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-03T02:32:54Z",
-  "updated_at": "2026-10-03T02:36:31Z",
-  "published_at": "2026-10-03T02:36:24Z",
+  "created_at": "2026-10-05T03:40:41Z",
+  "updated_at": "2026-10-05T03:44:36Z",
+  "published_at": "2026-10-05T03:44:34Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/DietrichGebert/ponytail/tarball/v4.10.3",
-  "zipball_url": "https://api.github.com/repos/DietrichGebert/ponytail/zipball/v4.10.3",
-  "body": "Several sessions, one machine, no more fighting. The ponytail mode is now kept per project, so a session in one repo no longer switches or clears the mode of a session in another. A bare `/ponytail` behaves the same everywhere (off switches on, on just reports the level), ZCode finally gets the ruleset, and Codex stops showing a yellow warning at every start.\n\n## What's Changed\n* fix(hooks): do not persist review from /ponytail-review (#736) by @szsunyuan in https://github.com/DietrichGebert/ponytail/pull/750\n* fix(hooks): keep the live mode per project so concurrent sessions stop overwriting each other by @DietrichGebert in https://github.com/DietrichGebert/ponytail/pull/981\n* fix(codex): drop SessionStart systemMessage that renders as a yellow warning (#605) by @spde in https://github.com/DietrichGebert/ponytail/pull/606\n* fix: emit hookSpecificOutput JSON on ZCode so rules reach the model by @Arteiimis in https://github.com/DietrichGebert/ponytail/pull/799\n* fix: read ponytail MCP package version by @ousamabenyounes in https://github.com/DietrichGebert/ponytail/pull/587\n* fix: bare /ponytail switches ponytail on, or reports the level when it already is by @DietrichGebert in https://github.com/DietrichGebert/ponytail/pull/982\n* chore: release v4.10.3 by @DietrichGebert in https://github.com/DietrichGebert/ponytail/pull/983\n\n## New Contributors\n* @szsunyuan made their first contribution in https://github.com/DietrichGebert/ponytail/pull/750\n* @spde made their first contribution in https://github.com/DietrichGebert/ponytail/pull/606\n* @Arteiimis made their first contribution in https://github.com/DietrichGebert/ponytail/pull/799\n\n**Full Changelog**: https://github.com/DietrichGebert/ponytail/compare/v4.10.2...v4.10.3\n",
+  "tarball_url": "https://api.github.com/repos/DietrichGebert/ponytail/tarball/v4.12.0",
+  "zipball_url": "https://api.github.com/repos/DietrichGebert/ponytail/zipball/v4.12.0",
+  "body": "Review and audit findings are numbered now, so you can answer \"fix 2 and 4\" instead of quoting lines back. CodeBuddy runs ponytail through the existing Claude plugin, and `/ponytail-gain` shows the honest agentic benchmark averages (54% less code, 22% fewer tokens, 20% lower cost, 27% faster, safety kept) instead of the old single-shot numbers a chatty baseline inflated. The README got slimmer too: every per-agent install step now lives in INSTALL.md.\n\n## What's Changed\n* docs: add Qwen Code support by @Dattuog in https://github.com/DietrichGebert/ponytail/pull/888\n* feat: CodeBuddy support via the existing Claude plugin (#854) by @ShantanuTaro in https://github.com/DietrichGebert/ponytail/pull/891\n* feat: add Goose adapter docs and schema guard (#880) by @nolanchic in https://github.com/DietrichGebert/ponytail/pull/882\n* docs: add Muse Code CLI support by @dangtrungan in https://github.com/DietrichGebert/ponytail/pull/950\n* docs: note that /ponytail-review takes a target in plain words by @DietrichGebert in https://github.com/DietrichGebert/ponytail/pull/1023\n* feat: number review and audit findings (#327) by @yashrao2607 in https://github.com/DietrichGebert/ponytail/pull/523\n* docs: new skills come from the maintainer, ideas go in an issue by @DietrichGebert in https://github.com/DietrichGebert/ponytail/pull/1024\n* docs: slim the README, move per-agent install steps to INSTALL.md by @DietrichGebert in https://github.com/DietrichGebert/ponytail/pull/1026\n* docs: name the only official install sources in the README by @DietrichGebert in https://github.com/DietrichGebert/ponytail/pull/1027\n* test: skip the /bin/sh hook checks where there is no /bin/sh by @DietrichGebert in https://github.com/DietrichGebert/ponytail/pull/1028\n* fix(gain): show the agentic benchmark averages, not the old single-shot medians by @DietrichGebert in https://github.com/DietrichGebert/ponytail/pull/1029\n* fix(bench): report the real error from correctness checks by @DietrichGebert in https://github.com/DietrichGebert/ponytail/pull/1030\n* chore: release v4.12.0 by @DietrichGebert in https://github.com/DietrichGebert/ponytail/pull/1031\n\n## New Contributors\n* @Dattuog made their first contribution in https://github.com/DietrichGebert/ponytail/pull/888\n\n**Full Changelog**: https://github.com/DietrichGebert/ponytail/compare/v4.11.0...v4.12.0\n",
   "reactions": {
-    "url": "https://api.github.com/repos/DietrichGebert/ponytail/releases/402285581/reactions",
-    "total_count": 17,
-    "+1": 15,
+    "url": "https://api.github.com/repos/DietrichGebert/ponytail/releases/403347783/reactions",
+    "total_count": 2,
+    "+1": 2,
     "-1": 0,
     "laugh": 0,
-    "hooray": 1,
+    "hooray": 0,
     "confused": 0,
     "heart": 0,
-    "rocket": 1,
+    "rocket": 0,
     "eyes": 0
   },
-  "mentions_count": 5
+  "mentions_count": 6
 }
