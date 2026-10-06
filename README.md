@@ -14,15 +14,15 @@ x install ponytail
 
 ## Code insight
 
-Total: **6,888** lines of code across **77** files in the top 5 languages.
+Total: **6,628** lines of code across **66** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 4,365 | 722 | 601 | 47 |
-| Python | 1,882 | 147 | 168 | 6 |
+| JavaScript | 4,287 | 720 | 588 | 39 |
+| Python | 1,748 | 145 | 140 | 5 |
 | Svg | 249 | 4 | 7 | 7 |
-| Json | 200 | 0 | 1 | 11 |
-| Yaml | 151 | 28 | 20 | 6 |
+| Json | 177 | 0 | 1 | 10 |
+| Yaml | 126 | 25 | 16 | 5 |
 
 ## Source
 
@@ -32,27 +32,27 @@ Total: **6,888** lines of code across **77** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v4.12.0` (2026-10-05)
+- **Latest**: `v4.13.0` (2026-10-05)
 - **Last commit**: 2026-10-05
 
 ## Popularity
 
-- **Stars**: 155,209 · **Forks**: 8,342 · **Open issues**: 346 · **Contributors**: 92
+- **Stars**: 156,218 · **Forks**: 8,395 · **Open issues**: 349 · **Contributors**: 104
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 234 · **Open PRs**: 81 · **Closed issues**: 343 · **Open issues**: 3 · **Commits**: 277
+- **Releases**: 22 · **Merged PRs**: 268 · **Open PRs**: 3 · **Closed issues**: 346 · **Open issues**: 3 · **Commits**: 311
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 6 | 39 | 38 | 47 | 1 | 55 |
-| last60d | 2026-08-06 | 7 | 52 | 58 | 81 | 1 | 67 |
-| 90d | 2026-07-07 | 7 | 69 | 76 | 126 | 3 | 72 |
-| last180d | 2026-04-08 | 21 | 234 | 81 | 343 | 3 | 269 |
-| 360d | 2025-10-10 | 21 | 234 | 81 | 343 | 3 | 269 |
-| last720d | 2024-10-15 | 21 | 234 | 81 | 343 | 3 | 277 |
+| 30d | 2026-09-06 | 7 | 59 | 3 | 44 | 3 | 89 |
+| last60d | 2026-08-07 | 8 | 75 | 3 | 82 | 3 | 101 |
+| 90d | 2026-07-08 | 8 | 100 | 3 | 126 | 3 | 106 |
+| last180d | 2026-04-09 | 22 | 268 | 3 | 346 | 3 | 303 |
+| 360d | 2025-10-11 | 22 | 268 | 3 | 346 | 3 | 303 |
+| last720d | 2024-10-16 | 22 | 268 | 3 | 346 | 3 | 311 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for ponytail lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:48:20Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:46:13Z._
