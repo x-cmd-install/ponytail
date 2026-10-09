@@ -32,27 +32,27 @@ Total: **7,651** lines of code across **69** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v5.0.0` (2026-10-08)
+- **Latest**: `v5.1.0` (2026-10-08)
 - **Last commit**: 2026-10-08
 
 ## Popularity
 
-- **Stars**: 157,898 · **Forks**: 8,483 · **Open issues**: 355 · **Contributors**: 104
+- **Stars**: 158,880 · **Forks**: 8,543 · **Open issues**: 357 · **Contributors**: 103
 
 ## Totals (cumulative)
 
-- **Releases**: 23 · **Merged PRs**: 270 · **Open PRs**: 12 · **Closed issues**: 347 · **Open issues**: 8 · **Commits**: 313
+- **Releases**: 24 · **Merged PRs**: 271 · **Open PRs**: 19 · **Closed issues**: 346 · **Open issues**: 11 · **Commits**: 315
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 8 | 57 | 12 | 45 | 8 | 91 |
-| last60d | 2026-08-09 | 8 | 77 | 12 | 83 | 8 | 103 |
-| 90d | 2026-07-10 | 9 | 94 | 12 | 122 | 8 | 108 |
-| last180d | 2026-04-11 | 23 | 270 | 12 | 347 | 8 | 305 |
-| 360d | 2025-10-13 | 23 | 270 | 12 | 347 | 8 | 305 |
-| last720d | 2024-10-18 | 23 | 270 | 12 | 347 | 8 | 313 |
+| 30d | 2026-09-09 | 9 | 56 | 19 | 45 | 11 | 92 |
+| last60d | 2026-08-10 | 9 | 78 | 19 | 82 | 11 | 104 |
+| 90d | 2026-07-11 | 10 | 95 | 19 | 121 | 11 | 109 |
+| last180d | 2026-04-12 | 24 | 271 | 19 | 346 | 11 | 306 |
+| 360d | 2025-10-14 | 24 | 271 | 19 | 346 | 11 | 306 |
+| last720d | 2024-10-19 | 24 | 271 | 19 | 346 | 11 | 315 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for ponytail lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T07:21:15Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T07:21:40Z._
