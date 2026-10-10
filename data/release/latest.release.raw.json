@@ -43,13 +43,13 @@
   "body": "Ponytail no longer writes its name into your code. Deliberate shortcuts are now marked with a neutral comment, `shortcut: <the limit>, <when to upgrade>`, and `/ponytail-debt` still finds the old `ponytail:` ones, so nothing in your ledger gets lost. Want another word, or none at all? Say so in your project's CLAUDE.md or AGENTS.md and run `/ponytail-debt <your word>`.\n\nMeasured against 5.0.0 before shipping: same number of markers, same pass rate, same cost.\n\n\n## What's Changed\n* feat: neutral shortcut: marker instead of the ponytail: brand in code comments by @DietrichGebert in https://github.com/DietrichGebert/ponytail/pull/1068\n* chore: release v5.1.0 by @DietrichGebert in https://github.com/DietrichGebert/ponytail/pull/1069\n\n\n**Full Changelog**: https://github.com/DietrichGebert/ponytail/compare/v5.0.0...v5.1.0",
   "reactions": {
     "url": "https://api.github.com/repos/DietrichGebert/ponytail/releases/407037118/reactions",
-    "total_count": 16,
-    "+1": 5,
+    "total_count": 32,
+    "+1": 14,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
     "confused": 0,
-    "heart": 11,
+    "heart": 18,
     "rocket": 0,
     "eyes": 0
   },
