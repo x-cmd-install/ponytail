@@ -43,14 +43,14 @@
   "body": "Ponytail 5.3.2 brings your old sessions to the board. `/ponytail band import` reads your past Claude Code sessions once and adds them with their cost, agent time and tokens, so you can compare them with today's. The board also shows which model each session used.\n\n\n## What's Changed\n* feat(band): past sessions and the model on the board by @DietrichGebert in https://github.com/DietrichGebert/ponytail/pull/1152\n* chore: release v5.3.2 by @DietrichGebert in https://github.com/DietrichGebert/ponytail/pull/1153\n\n\n**Full Changelog**: https://github.com/DietrichGebert/ponytail/compare/v5.3.1...v5.3.2",
   "reactions": {
     "url": "https://api.github.com/repos/DietrichGebert/ponytail/releases/415453795/reactions",
-    "total_count": 6,
-    "+1": 4,
+    "total_count": 21,
+    "+1": 10,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
     "confused": 0,
-    "heart": 2,
-    "rocket": 0,
+    "heart": 9,
+    "rocket": 2,
     "eyes": 0
   },
   "mentions_count": 1
