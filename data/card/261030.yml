@@ -1,0 +1,154 @@
+about:
+  description: "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote."
+  license: MIT
+  homepage: https://ponytail.dev
+  head: 96608e0
+  archived: false
+  latestVersion: "v5.3.3"
+  latestRelease: "v5.3.3"
+  latestPrerelease: ""
+  collectedAt: 2026-10-30T07:00:52Z
+timeline:
+  created: 2026-06-12
+  lastCommit: 2026-10-29
+  lastVersion: 2026-10-29
+  lastRelease: 2026-10-29
+  lastPrerelease: 
+popularity:
+  star: 180411
+  watcher: 416
+  fork: 9906
+  release: 30
+  contributor: 126
+  pullRequest: 852
+  issue: 457
+language:
+  JavaScript: 306023
+  Python: 157958
+  TypeScript: 157343
+  PowerShell: 885
+  Shell: 696
+totalBytes: 622905
+recent:
+  last30d:
+    since: 2026-09-30
+    release: 14
+    mergedPR: 92
+    openPR: 77
+    closedIssue: 66
+    openIssue: 61
+    commit: 145
+  last60d:
+    since: 2026-08-31
+    release: 15
+    mergedPR: 126
+    openPR: 77
+    closedIssue: 109
+    openIssue: 61
+    commit: 159
+  last90d:
+    since: 2026-08-01
+    release: 16
+    mergedPR: 140
+    openPR: 77
+    closedIssue: 142
+    openIssue: 61
+    commit: 163
+  last180d:
+    since: 2026-05-03
+    release: 30
+    mergedPR: 326
+    openPR: 77
+    closedIssue: 396
+    openIssue: 61
+    commit: 361
+  last360d:
+    since: 2025-11-04
+    release: 30
+    mergedPR: 326
+    openPR: 77
+    closedIssue: 396
+    openIssue: 61
+    commit: 361
+  last720d:
+    since: 2024-11-09
+    release: 30
+    mergedPR: 326
+    openPR: 77
+    closedIssue: 396
+    openIssue: 61
+    commit: 369
+total:
+  release: 30
+  mergedPR: 326
+  openPR: 77
+  closedIssue: 396
+  openIssue: 61
+  commit: 369
+---
+path: /home/runner/.x-repo/github.com/DietrichGebert/ponytail
+collectedAt: 2026-10-30T07:00:56Z
+loc:
+  JavaScript:
+    code: 5105
+    comments: 800
+    blanks: 644
+    files: 44
+  Python:
+    code: 2697
+    comments: 195
+    blanks: 180
+    files: 7
+  Tsx:
+    code: 868
+    comments: 64
+    blanks: 83
+    files: 2
+  TypeScript:
+    code: 836
+    comments: 26
+    blanks: 46
+    files: 4
+  Svg:
+    code: 257
+    comments: 4
+    blanks: 7
+    files: 9
+  Json:
+    code: 183
+    comments: 0
+    blanks: 1
+    files: 11
+  Yaml:
+    code: 126
+    comments: 25
+    blanks: 16
+    files: 5
+  PowerShell:
+    code: 19
+    comments: 3
+    blanks: 2
+    files: 1
+  Toml:
+    code: 12
+    comments: 0
+    blanks: 0
+    files: 6
+  Sh:
+    code: 10
+    comments: 5
+    blanks: 3
+    files: 1
+  Markdown:
+    code: 0
+    comments: 3079
+    blanks: 1107
+    files: 41
+total:
+  code: 10930
+  comments: 4243
+  blanks: 2228
+  files: 131
+---
+
+---
