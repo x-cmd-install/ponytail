@@ -37,22 +37,22 @@ Total: **10,113** lines of code across **66** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 187,098 · **Forks**: 10,364 · **Open issues**: 478 · **Contributors**: 125
+- **Stars**: 188,002 · **Forks**: 10,433 · **Open issues**: 480 · **Contributors**: 125
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 326 · **Open PRs**: 113 · **Closed issues**: 400 · **Open issues**: 78 · **Commits**: 369
+- **Releases**: 30 · **Merged PRs**: 326 · **Open PRs**: 116 · **Closed issues**: 400 · **Open issues**: 80 · **Commits**: 369
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 6 | 35 | 113 | 36 | 75 | 22 |
-| last60d | 2026-09-10 | 15 | 109 | 113 | 97 | 78 | 145 |
-| 90d | 2026-08-11 | 15 | 133 | 113 | 136 | 78 | 159 |
-| last180d | 2026-05-13 | 30 | 326 | 113 | 400 | 78 | 361 |
-| 360d | 2025-11-14 | 30 | 326 | 113 | 400 | 78 | 361 |
-| last720d | 2024-11-19 | 30 | 326 | 113 | 400 | 78 | 369 |
+| 30d | 2026-10-11 | 6 | 32 | 116 | 36 | 77 | 22 |
+| last60d | 2026-09-11 | 15 | 109 | 116 | 95 | 80 | 145 |
+| 90d | 2026-08-12 | 15 | 133 | 116 | 133 | 80 | 159 |
+| last180d | 2026-05-14 | 30 | 326 | 116 | 400 | 80 | 361 |
+| 360d | 2025-11-15 | 30 | 326 | 116 | 400 | 80 | 361 |
+| last720d | 2024-11-20 | 30 | 326 | 116 | 400 | 80 | 369 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for ponytail lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T07:52:36Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T09:03:26Z._
